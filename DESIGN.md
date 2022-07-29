@@ -12,7 +12,7 @@
 
 ## What does this package do?
 
-`groundcontrol` is designed to communicate with the `turtle` tab management APIs.
+`groundcontrol` is designed be the ideal UI Component Library to use with other [Open Source Universe](https://github.com/intellibus/approach) packages.
 
 ## How is it different from what I already use?
 

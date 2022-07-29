@@ -42,7 +42,7 @@ Read more about the [Design](https://github.com/intellibus/groundcontrol/blob/ma
   import { Button } from 'groundcontrol';
 </script>
 
-<Button on:click={clickHandler} class='my-5 px-2'/>
+<Button on:click={clickHandler} class='my-5 px-2'>Click Me!</Button>
 ```
 
 ## Documentation 🛰
