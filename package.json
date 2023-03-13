@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@intellibus/groundcontrol",
-  "version": "1.0.236",
+  "version": "1.0.237",
   "description": "UI Component Library For The Open Source Universe",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
